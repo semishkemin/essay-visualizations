@@ -29,7 +29,7 @@ All essays are published on:
 | 07 | The Father of Gynecology—and the Women History Forgot | — | [Substack](https://semishkemin.substack.com/p/the-father-of-gynecologyand-the-women?r=8veixm) |
 | 08 | The Weight of Other People's Eyes | [Code & visuals](./09-the-weight-of-other-peoples-eyes/) | [Substack](https://semishkemin.substack.com/p/the-weight-of-other-peoples-eyes?r=8veixm) |
 | 09 | Nine Miles, Thirty Years | — | [Substack](https://semishkemin.substack.com/p/nine-miles-thirty-years?r=8veixm) |
-| 10 | Does Grief Have a Deadline | [Code & visuals](./10-does-grief-have-a-deadline/) | [Substack](PASTE_URL_HERE) |
+| 10 | Does Grief Have a Deadline? | [Code & visuals](./10-does-grief-have-a-deadline/) | [Substack](PASTE_URL_HERE) |
 
 Selected essays include accompanying Code & visuals with the scripts and exported figures used in the piece.
 
