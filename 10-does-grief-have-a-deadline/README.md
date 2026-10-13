@@ -11,7 +11,8 @@ Generated figures are available in the `figures/` directory in both PNG and SVG 
 
 ## Essay
 
-[Read the essay on Substack](URL)
+Read the essay on Substack:
+*Link coming soon after publication.*
 
 More essays and updates:
 
