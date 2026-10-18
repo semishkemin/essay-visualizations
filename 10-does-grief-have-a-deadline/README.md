@@ -11,8 +11,7 @@ Generated figures are available in the `figures/` directory in both PNG and SVG 
 
 ## Essay
 
-Read the essay on Substack:
-*Link coming soon after publication.*
+[Read the essay on Substack](https://semishkemin.substack.com/p/does-grief-have-a-deadline?utm_source=share&utm_medium=android&r=8veixm)
 
 More essays and updates:
 
